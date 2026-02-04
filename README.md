@@ -231,15 +231,4 @@ It’s about:
 * Making intentional choices
 * Explaining your code
 
-If two projects look different, **that’s a success**.
 
----
-
-If you want next, I can:
-
-* Create a **grading checklist**
-* Write an **instructor-only reference solution**
-* Build a **reflection worksheet**
-* Turn this into a **GitHub Classroom assignment**
-
-Just tell me the next step.
