@@ -50,7 +50,7 @@ You must follow these rules:
 
 ## Program Requirements
 
-### 1️⃣ User Input (Scanner)
+### User Input (Scanner)
 
 Your program must ask the user for:
 
@@ -62,7 +62,7 @@ Be careful when mixing numeric and text input.
 
 ---
 
-### 2️⃣ Randomized Data (`Random`)
+### Randomized Data (`Random`)
 
 Your program must generate random values for:
 
@@ -74,7 +74,7 @@ Each program run should produce different results.
 
 ---
 
-### 3️⃣ Calculations (`Math`)
+### Calculations (`Math`)
 
 Your program must:
 
@@ -97,7 +97,7 @@ Examples:
 
 ---
 
-### 4️⃣ String Logic (`String`)
+### String Logic (`String`)
 
 You must use **at least three different String methods**.
 
@@ -118,7 +118,7 @@ Examples of allowed methods:
 
 ---
 
-### 5️⃣ Methods (Required)
+### Methods (Required)
 
 You must create **at least five methods** (not counting `main`).
 
@@ -135,7 +135,7 @@ Ask yourself:
 
 ---
 
-### 6️⃣ Receipt Output
+### Receipt Output
 
 Your program must print a **clear, readable receipt** that includes:
 
@@ -149,7 +149,7 @@ Formatting matters — your output should be easy to read.
 
 ---
 
-## Creativity Requirement 🎨
+## Creativity Requirement 
 
 Choose **at least TWO** of the following **OR invent your own**:
 
@@ -178,28 +178,28 @@ These are **suggestions**, not requirements.
 
 ## Submission Requirements
 
-### 1️⃣ Code
+###  Code
 
 * Multiple `.java` files
 * Program runs without crashing
 * Meets all project requirements
 
-### 2️⃣ README (This File)
+###  README (This File)
 
 Add the following sections **below**:
 
-#### 🧠 How It Works
+####  How It Works
 
 Briefly explain:
 
 * What your program does
 * How randomness is used
 
-#### 🧪 Sample Output
+####  Sample Output
 
 Paste **two different runs** of your program to show randomness.
 
-#### 🛠 Java Concepts Used
+####  Java Concepts Used
 
 List the Java concepts you used and where.
 
